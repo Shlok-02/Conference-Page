@@ -1,0 +1,187 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  display: block;
+  margin: auto;
+}
+
+.header {
+  color: #648880;
+  background-color: #293f50;
+}
+
+.navbar {
+  padding-top: 40px;
+  margin: auto;
+  display: block;
+  width: 50%;
+  display: flex;
+}
+
+.style p {
+  font-size: 45px;
+  font-weight: lighter;
+  color: #fff;
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+}
+
+.style p:hover {
+  color: #648880;
+}
+
+.list {
+  padding-left: 200px;
+  padding-top: 35px;
+}
+.list .date {
+  width: 300px;
+  height: 10px;
+  padding-left: 150px;
+  font-size: 22px;
+}
+.list ul {
+  padding-top: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.list li {
+  padding: 10px;
+  padding-left: 14px;
+  list-style: none;
+  font-size: 18px;
+}
+
+.list a{
+    color: #fff;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+}
+
+.list a:hover{
+    color: #648880;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: "Roboto", sans-serif;
+}
+
+.build {
+  font-family: "Roboto", sans-serif;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.build .h3 {
+  font-size: 36px;
+  color: #648880;
+  font-weight: 900;
+}
+
+.build p {
+  font-size: 22px;
+  padding-top: 20px;
+  line-height: 1.5;
+  color: #fff;
+}
+
+.build .link {
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+.build a {
+  border: 1px solid white;
+  padding: 20px 50px;
+  font-size: 20px;
+  color: #fff;
+  width: 100%;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.build a:hover {
+  background-color: #fff;
+  color: #648880;
+  font-weight: bolder;
+}
+
+.body{
+    width: 60%;
+    margin: auto;
+    display: flex;
+    padding-left: 10px;
+    padding-top: 50px;
+}
+
+.card{
+    margin: 20px;
+}
+
+.img img{
+    max-width: 100%;
+}
+
+.head{
+    padding-bottom: 10px;
+    color: #a9b2b9;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.bold
+{
+    padding-top: 10px;
+}
+
+.bold a{
+    text-decoration: none ;
+    color: #648880;
+    font-size: 21px;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.text{
+    padding-top: 20px;
+    color: #a9b2b9;
+}
+
+.footer{
+    background-color: #293f50;
+    height: 100px;
+    margin-top: 100px;
+    display: flex;
+}
+.speaker{
+    width: 50%;
+    text-align: center;
+    color: #fff;
+    padding-top: 50px;
+}
+
+.ft{
+    display: flex;
+}
+
+.ft ul{
+    display: flex;
+}
+
+.ft li{
+    list-style: none;
+    padding: 20px;
+    padding-top:50px;
+    padding-left: 40px;
+}
+
+.ft a{
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+}

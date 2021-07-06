@@ -1,0 +1,108 @@
+.navbar {
+  padding-bottom: 40px;
+}
+
+.body2 {
+  text-align: center;
+  padding: 70px 0 22px 0;
+  height: 160px;
+  background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+}
+
+.style p {
+  font-family: "Roboto", sans-serif;
+}
+
+.list ul {
+  padding-top: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.list li {
+  padding: 10px;
+  padding-left: 14px;
+  list-style: none;
+  font-size: 18px;
+}
+
+.list a {
+  color: #fff;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+}
+
+.list a:hover {
+  color: #648880;
+  text-decoration: none;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+}
+
+.speak h3 {
+  font-size: 34px;
+  padding-bottom: 20px;
+  color: #648880;
+}
+
+.we p {
+  width: 50%;
+  margin: auto;
+  font-size: 18px;
+  font-weight: bold;
+  color: #888;
+}
+
+.speakers {
+  display: flex;
+  width: 60%;
+  padding-top: 50px;
+  margin: auto;
+  text-align: left;
+  color: black;
+  border-bottom: 1px solid #648880;
+}
+.name {
+  padding-right: 50px;
+}
+.name h3 {
+  color: #648880;
+  font-size: 32px;
+  padding: 10px 0;
+}
+
+.name #p {
+  color: #a9b2b9;
+  padding-bottom: 20px;
+}
+
+.par p {
+  padding-bottom: 20px;
+  line-height: 1.5;
+  font-size: 17px;
+  font-weight: 400;
+  color: #888;
+}
+
+.about h4 {
+  color: #648880;
+  font-size: 18px;
+  padding: 20px 0px;
+}
+
+.about p {
+  padding-bottom: 30px;
+  line-height: 1.5;
+  font-size: 17px;
+  color: #888;
+  font-weight: bold;
+}
+.pic {
+  width: 100%;
+  padding-top: 20px;
+}
+img {
+  height: 250px;
+  width: 250px;
+  border-radius: 300px;
+}
